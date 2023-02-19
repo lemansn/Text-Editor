@@ -44,21 +44,31 @@
 # Project Demo
 
 
-Main Page&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;File Button &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Edit Button
+Main Page&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;File Button
 
-<img src = "https://user-images.githubusercontent.com/78681001/219946245-380a8472-1b51-48cd-9b99-d87ff1d6e1e3.jpeg" width="330" height="300">    <img src = "https://user-images.githubusercontent.com/78681001/219946286-7298a2e2-08a6-4977-b8ea-b2e2a45344e5.jpeg" width="330" height="300">    <img src = "https://user-images.githubusercontent.com/78681001/219946449-0f208c2e-593b-44d0-9f91-4fb635abef68.jpeg" width="330" height="300">
+<img src = "https://user-images.githubusercontent.com/78681001/219946245-380a8472-1b51-48cd-9b99-d87ff1d6e1e3.jpeg" width="330" height="300">    <img src = "https://user-images.githubusercontent.com/78681001/219946286-7298a2e2-08a6-4977-b8ea-b2e2a45344e5.jpeg" width="330" height="300">    
+
+<br />
+
+ Edit Button &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Find and Replace
+ 
+ 
+<img src = "https://user-images.githubusercontent.com/78681001/219946449-0f208c2e-593b-44d0-9f91-4fb635abef68.jpeg" width="330" height="300">  <img src = "https://user-images.githubusercontent.com/78681001/219946383-01e1366b-8e77-4787-a6c8-48600e7ca922.jpeg" width="330" height="300">
+
 
 <br />
 
-Create File&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Save As&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Open File
+Create File&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Open File &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
-<img src = "https://user-images.githubusercontent.com/78681001/219946298-1df77484-b911-4082-b782-5fbae2f5aa90.jpeg" width="330" height="300">  <img src = "https://user-images.githubusercontent.com/78681001/219946317-31b3ebfe-aff4-4657-bd4b-180314d7c671.jpeg" width="330" height="300">  <img src = "https://user-images.githubusercontent.com/78681001/219946324-63b19241-67d1-476f-aadb-a80391ca6672.jpeg" width="330" height="300">
+<img src = "https://user-images.githubusercontent.com/78681001/219946298-1df77484-b911-4082-b782-5fbae2f5aa90.jpeg" width="330" height="300">  <img src = "https://user-images.githubusercontent.com/78681001/219946324-63b19241-67d1-476f-aadb-a80391ca6672.jpeg" width="330" height="300">
 
 
 <br />
-Find and Replace
 
-<img src = "https://user-images.githubusercontent.com/78681001/219946383-01e1366b-8e77-4787-a6c8-48600e7ca922.jpeg" width="330" height="300">
+Save As
+
+<img src = "https://user-images.githubusercontent.com/78681001/219946317-31b3ebfe-aff4-4657-bd4b-180314d7c671.jpeg" width="330" height="300"> 
+
 
 
 # JUnit Test
